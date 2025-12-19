@@ -1,7 +1,6 @@
 # mapper.py
 import sys
 
-# Tamaño de las matrices (2x2 para el ejemplo)
 N = 2
 
 for line in sys.stdin:
