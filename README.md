@@ -38,6 +38,14 @@ pip install mrjob
 cd python/
 cat input.txt | python3 mapper.py | sort | python3 reducer.py
 ```
+Expected output: 
+| i,j | Value |
+|-----|--------|
+| 0,0 | 19.0   |
+| 0,1 | 22.0   |
+| 1,0 | 43.0   |
+| 1,1 | 50.0   |
+
 ---
 ## Java Execution
 ```
