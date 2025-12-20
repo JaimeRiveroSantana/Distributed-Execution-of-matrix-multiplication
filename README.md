@@ -17,6 +17,8 @@ Requirements:
 pip install mrjob
 ```
 ## Java Execution
+```
 Open project in IntelliJ IDEA.
 Mark src/main/java as Sources Root.
 Run DistributedMatrixMultiplication.java.
+```
